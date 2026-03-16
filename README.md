@@ -1,4 +1,4 @@
-# **Machine Learning Coursework**
+# **Term-Deposit-Subscription-Prediction**
 
 This project aims to predict whether a client will subscribe to a term deposit based on the **Bank Marketing Dataset**.
 
